@@ -11,7 +11,7 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "kunal-kapoor-81-books--dev"
+        DEV_PROJECT = "kunal-kapoor-81-books-dev"
         STAGE_PROJECT = "kunal-kapoor-81-books-stage"
         APP_GIT_URL = "https://github.com/kunalkapoor81/DO288-apps"
        // NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/nodejs"
